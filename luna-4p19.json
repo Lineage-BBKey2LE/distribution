@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1789458915,
-      "filename": "lineage-22.2-20260915-UNOFFICIAL-zkrab-v1.20c-luna.zip",
-      "id": "d9626b82f544b42ccd0e814968cdb4ccb5583217ef20130fd73e21fd94fbc6fa",
+      "datetime": 1790468419,
+      "filename": "lineage-22.2-20260926-UNOFFICIAL-zkrab-v1.20d-luna.zip",
+      "id": "95d80c4d420bd4b33605138e2e9eda81e5c8de111882be768546c115e81238ea",
       "romtype": "unofficial",
-      "size": 1049218313,
-      "url": "https://github.com/Lineage-BBKey2LE/distribution/releases/download/v1.20c/lineage-22.2-20260915-UNOFFICIAL-zkrab-v1.20c-luna.zip",
+      "size": 1049142573,
+      "url": "https://github.com/Lineage-BBKey2LE/distribution/releases/download/v1.20d/lineage-22.2-20260926-UNOFFICIAL-zkrab-v1.20d-luna.zip",
       "version": "22.2"
     }
   ]
