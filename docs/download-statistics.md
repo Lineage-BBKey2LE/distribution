@@ -1,7 +1,7 @@
 # Download statistics
 
 The `Track ROM downloads` GitHub Actions workflow runs daily at 00:17 UTC.
-It reads the published releases in `Lineage-BBKey2/distribution`, including
+It reads the published releases in `Lineage-BBKey2LE/distribution`, including
 prereleases, and records every uploaded asset's cumulative download counter.
 It follows pagination for both releases and assets. GitHub-generated source
 archives are not uploaded release assets and are not included.

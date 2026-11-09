@@ -278,7 +278,7 @@ def render(history, directory, release_metadata=None):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--repository", default="Lineage-BBKey2/distribution")
+    parser.add_argument("--repository", default="Lineage-BBKey2LE/distribution")
     parser.add_argument("--render-only", action="store_true", help="Regenerate charts from the CSV without collecting")
     args = parser.parse_args()
     path = ROOT / "data/downloads.csv"

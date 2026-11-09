@@ -32,7 +32,7 @@ jobs:
       - name: Collect counters and regenerate charts
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python scripts/track_downloads.py --repository Lineage-BBKey2/distribution
+        run: python scripts/track_downloads.py --repository Lineage-BBKey2LE/distribution
 
       - name: Commit statistics to main
         run: |
